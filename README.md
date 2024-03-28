@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://github.com/githubhosting/ds/assets/71520844/f8593e42-6a5a-4dc3-93f1-52df0b8700e9)
 
 <h1 align="center">👋 Heyy, I'm <a href="https://www.linkedin.com/in/namratha-vj" target="_blank"> Namratha Jakati </a> </h1>
 
@@ -42,11 +42,11 @@ Let's have a look at some of my noteworthy projects:
 1. [AI Meal Planner](https://ai-meal-planner.streamlit.app): This project is a meal planning app that generates personalized meal plans based on a user's caloric needs and Personal Information. It utilizes natural language processing to generate creative meal ideas using ingredients selected by the greedy algorithm.
 2. [E-Cell Club Website](https://ecellramaiah.in): Demonstrating my versatility in web technologies.
 3. [Quatlas Aeromodling Website](https://quatlas.vercel.app): A website for the Quatlas Aeromodelling Club at MSRIT.
-4.  
+4. [CodeInsight AI](https://codeinsightai.streamlit.app): A code analysis tool that uses LLM to generate documentation and explinations for code from any GitHub repository.
 
 ## Let's Connect
 
-I'm actively sharing my knowledge and resources on my [Telegram Channel](https://telegram.me/ComputerScienceStudentsClub). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shravanrevanna) and [Instagram](https://www.instagram.com/shravanrevanna). I'm always happy to help!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namratha-vj).
 
 ## 📊 GitHub Stats of Namratha
 
@@ -62,6 +62,8 @@ I'm actively sharing my knowledge and resources on my [Telegram Channel](https:/
 ## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namratha-vj&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/namratha-vj/namratha-vj/blob/snake/github-contribution-grid-snake-dark.svg)
 
 ## Find me Here
 

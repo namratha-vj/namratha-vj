@@ -48,11 +48,17 @@ Let's have a look at some of my noteworthy projects:
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namratha-vj).
 
-## 📊 GitHub Stats of Namratha
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=namratha-vj&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=namratha-vj&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namratha-vj&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=namratha-vj&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=namratha-vj&theme=dracula&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namratha-vj&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies of Namratha
 
@@ -64,6 +70,10 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namratha-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namratha-vj&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://github.com/namratha-vj/namratha-vj/blob/snake/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=namratha-vj&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+</div>
 
 ## Find me Here
 

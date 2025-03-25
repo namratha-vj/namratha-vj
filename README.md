@@ -4,7 +4,7 @@
 
 A bit about myself,
 
-🎓 Currently in my third year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Computer Science with a specialization in AI & ML.
+🎓 Currently in my final year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Computer Science with a specialization in AI & ML.
 
 🔍 My current fascination lies in **Machine Learning**. I'm actively experimenting with **Large Language Models (LLMs)** and am passionate about diving deep into the intricate world of AI and ML.
 
